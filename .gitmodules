@@ -13,3 +13,6 @@
 [submodule "week_4/amm"]
 	path = week_4/amm
 	url = https://github.com/danielAsaboro/solana_amm.git
+[submodule "capstone/open_house"]
+	path = capstone/open_house
+	url = https://github.com/danielAsaboro/open_house.git
