@@ -10,3 +10,6 @@
 [submodule "week_3/solana_marketplace"]
 	path = week_3/solana_marketplace
 	url = https://github.com/danielAsaboro/solana_market_place.git
+[submodule "week_4/amm"]
+	path = week_4/amm
+	url = https://github.com/danielAsaboro/solana_amm.git
